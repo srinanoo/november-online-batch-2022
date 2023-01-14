@@ -1,0 +1,699 @@
+NOTES: 13-11-2022
+
+Frontend Course
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
+    - jQuery
+    - ReactJs
+    - GitHub
+
+Fullstack Course
+    - Frontend Course
+    +
+    - MongoDB
+    - ExpressJS
+    - NodeJs
+    - Git
+
+WhatsApp (official group)
+    - Name as a message
+    - Usage
+        - Sharing
+            - assignments
+            - projects
+            - Slides
+        - Any kind of updates
+        - Notes
+        - Submitting the assignment or project
+        - Any questions/doubts/clarification
+        - Share anything to technical (web)
+    - DONTS
+        - misusing the contacts
+        - sharing any wanted messages
+
+Assignments
+    - small tasks depending on the topic (practice)
+Projects
+    - FE
+        - at least 5 templates
+        ReactJs
+            - 3 - 4 ReactJs templates
+    - BE
+        - at least 1 project
+            (database + backend + frontend)
+
+Procedure/Process
+    - Theory (Basic)
+        - Intermediate
+        - Advanced
+    - NO DIRECT ANSWERS
+        - give you the chance explore (entire internet)
+
+Schedule:
+    - Saturdays and Sundays
+        - 7-9pm IST
+
+Attendance
+    - Will be taken at the start of the session!
+    - in the middle!
+    - at the end!
+
+Certification
+    - FE or BE
+        - assigned project should be completed and sent for review!
+    
+Terms
+    - Developer
+    - Programmer
+    - Coder
+        
+        - Who is a Developer / Programmer / Coder?
+        - Are they same or different?
+            if same, why?
+                how long will it take to become one?
+            if different, how?
+                how long will it take to become one?
+
+        
+NOTES: 19-11-2022
+
+Venish (Developer)
+    - Coder (2-3 months)
+        one who knows software
+    - Programmer (2-3 years)
+        one who can implement logic/algo
+    - Developer (2-3 years)
+        coder and programmer, with documentation
+
+Karthikeyan (Coder)
+    - Coder / Programmer / Developer (min. 3 months)
+        all are the same
+
+Purushotham (Developer)
+    - Coder (2-3 months)
+    - Programmer (2+ years)
+    - Developer (3+ years)
+
+Kiran (Coder)
+    - Coder (6 months)
+        beginner
+    - Programmer (min. 1 year)
+        after coder, who programs the program
+    - Developer (1.5+ years)
+        create the software, with help of programmer, but knows more than programmer and coder
+
+Gunaseelan (Developer)
+    - Coder (min. 1 year)
+        one who has IT background
+        no logically thinking
+    - Programmer (2-3 years)
+        solve logically
+        at least worked on 2-3 projects
+    - Developer (after 3 years)
+        documentation about the software/project
+        maintenance of software
+
+Jaya Seetha (Coder)
+    - Coder (6 months)
+        uses computer language (uses 0/1s)
+    - Programmer (1 year)
+        uses some programming
+    - Developer (2-3 years)
+        debugging
+        also knows about programmers' and coders'
+
+
+Project Sample Work
+    - To Build/Construction of a classroom
+
+        - Steps/Necessary Things
+            - Phase 1 (7:30pm started, it ended 7:40pm) - 10mins (Developed)
+                - Room
+                - Building
+                - Teachers
+                - Students
+                - Teaching Aids (Materials)
+                - Tables, Benches, Chairs, A/c, White Board, etc.,
+                - Raw Materials (bricks, sand, cement, iron, wire, water)
+                - Man Power (wagers, enggineers, supervisors)
+                - Timeframe
+                - Architectural Plan
+                - Maintenance
+                - Exterior / Interior
+                - Approval / Funds
+                - Land
+                - Rubishes
+
+            - Phase 2 (8:18pm started, it ended at 8:23) - 10 mins (Programming)
+                - Steps (Sequential)
+                    - Land
+                    - Approvals
+                    - Blueprint (Architectural plan)
+                    - Funds / Proposals
+                    - Approvals
+                    - Time Frame
+                    - Approvals
+                    - Exterior / Interior
+                    - Approvals
+                    - Man Power (Engg, Superviors, Wagers)
+                    - Raw Materials (bricks... )
+                    - Construction / Implementation
+
+                - Pseudo Code
+                    - step by step instruction in human understandable language
+
+            - Phase 3
+                - Coder (3 months, 6 months)
+                    - Implement
+                        - Technology/Software of Knowledge
+
+
+HARD WORK
+    Hitting the nail in the wall?
+        Wall
+        Nail
+        Hammer
+            Person
+                - Effort
+                - Committment
+
+Am I going to get profits (money) out of this person?
+
+2 important qualities
+    Attitude
+        willingness to learn
+        whether the person is trainable
+    Adaptibility
+        FULL STACK
+            MERN
+                - we have a project, in MEAN
+                    - are you in?
+                        yes and then learn
+
+
+FullStack
+    - What is fullstack?
+        - Collection of Layers (set)
+            - different software
+        
+        - Layers
+            - Frontend
+            - Backend
+            - Database
+
+Editor vs IDE (Integrated Developement Environment)
+    Editor is simple software
+        - Notepad
+        - Mostly its TEXT Editors
+    IDE is extensive of the simple software with additional features
+        it can support multiple technologies
+        it can support multiple features
+        it can also things like compiling
+            - VS Code (Visual Studio Code)
+                https://code.visualstudio.com/
+            - Sublime Editor
+            - Coffeecup 
+            - Homesite
+            - Eclipse
+
+
+NOTES: 20-11-2022
+
+Types of Languages?
+    Markup (Placeholder)
+        - HTML
+        - XML
+    Scripting (Programming, but without any additional environment, simple programming language)
+        - Client Side
+            - JavaScript (Notepad, Any browser)
+            - ReactJS
+        - Server Side
+            - ASP (IIS, Apache)
+            - JSP (Apache, Tomcat)
+            - VBScript
+            - ReactJS (simply it will run on the environment, others its a client side scripting)
+            - NodeJs
+    Programming
+        - PHP
+        - Python
+        - Java
+        - .Net
+        - Ruby-n-Rails
+        - Native React
+        - Native Angular
+
+
+WWW - World Wide Web
+    W3C
+        World Wide Web Consortium
+            - Governing Body of the entire internet
+
+Website vs Web page
+    - web page is a single document
+        eg: a single HTML document
+            home.html
+    - website is a collection of web pages
+        eg: a collection of HTML documents
+            home.html
+            about.html
+            portfolio.html
+            contact.html
+
+www.domain.com - domain name
+    - content / files inside
+        - website
+
+HTML TAGS
+    Syntax
+        - Core / Representing / Architecture
+
+        - Tags aka Elements aka Containers
+            <...>
+                ...
+            </...>
+
+            - Classification / Category
+                Paired Tag
+                    <TAGNAME> => Opening Tag
+                        content / text / containers
+                    </TAGNAME> => Closing Tag
+                Unpaired Tag (Self Closing)
+                    <TAGNAME>
+                    or
+                    <TAGNAME />
+
+
+Basic Coding Standards
+    - Meaningful names
+        folder name
+        file name
+        variable name
+            - should not be like this:
+                project1 /project1.html
+                testproject / testproject.html
+                assignment1.html
+            - CRIME
+                SPACES
+                    test project.html
+            - should be like this:
+                Naming Conventions
+                    - 6 Cases Options
+                        - lower camel case
+                            first.html
+                            firstPage.html
+                            firstPageNewPage.html
+                        - upper camel case
+                            First.html
+                            FirstPage.html
+                            FirstPageNewPage.html
+                        - lower case
+                            first.html
+                            firstpage.html
+                            firstpagenewpage.html
+                        - upper case
+                            FIRST.html
+                            FIRSTPAGE.html
+                            FIRSTPAGENEWPAGE.html
+                        - snake case
+                            first.html
+                            first_page.html
+                            first_page_new_page.html
+                        - dash case
+                            first.html
+                            first-page.html
+                            first-page-new-page.html
+
+    - Code Indent
+        - Spaces before the line start
+        - Maintaining the hierarchy
+
+
+HTML Structure
+    <html>
+        <head>
+        </head>
+        <body>
+        </body>
+    </html>
+
+How to Create/Open/Edit HTML file?
+    - Open VS Code
+        - File -> New Text File
+            - File -> Save
+                <filename>.html
+        - Enter/Type in the HTML Structure
+            - File -> Save
+    
+    - Open HTML file in Browser
+        - Open File Explorer window
+            - Navigate to the folder
+                - Double click on the HTML file
+                    - which will open the default browser of your system
+        - Open File Explorer window
+            - Navigate to the folder
+                - Right click on the HTML file
+                    - Open with -> select the appropriate browser of your choice
+        - Open the Browser directly
+            - Click on "CTRL + S"
+                - Navigate to the folder
+                    - Double of the HTML file
+
+    - Making changes/edits in HTML file
+        - Open File Explorer window
+            - Navigate to the folder
+                - Right click on the HTML file
+                    - Open with Code
+        - Open VS Code directly
+            - File -> Open File
+                - Navigate to the folder
+                    - Double of the HTML file
+
+Deprecated
+    - marked for deletion in the next version/upgrade
+
+HTML produces the output in the browser
+    - Rendering
+        - one by one
+
+
+NOTES: 26-11-2022
+
+HTML Attributes (aka properties)
+    Paired Attribute
+        KEY/VALUE => name="value"
+    Unpaired Attribute (self closing)
+        KEY = name
+
+    Built-in Attribute
+        Core Attribute
+            id
+            class
+            style
+            title
+        Generic Attribute
+            . it depends on the tag
+                align
+                border
+                cellpadding
+                width
+                height
+    Custom Attribute (will ask you guys when we come to BOOTSTRAP)
+        - attribute name that starts with "data-" is custom attribute
+
+PATH
+    root folder
+        https://www.domain.com/
+            https://www.domain.com/about.html (Complete Path)
+            https://www.domain.com/contact.html
+    relative path (always good!)
+        about.html
+        images/file.png
+    absolute path (NEVER good! - its good in programming environment) / physical path (NEVER good! - its good in programming environment) / full or external path (depends !)
+
+HTML Measurements
+    px (pixels)
+    % (percentage)
+
+
+SEO (Search Engine Optimization)
+
+
+NOTES: 27-11-2022
+
+Spacing
+    - cellspacing
+    - cellpadding
+
+Sizing
+    - width
+    - height
+
+Project #1 (for this week!)
+    Design to convert: https://srinanoo.github.io/templates/templates/workshop-with-bootstrap-html.png
+    1st Part (in a separate .html file)
+        - convert the given template in HTML Table tag (individual tables) - with borders
+    2nd Part (in a separate .html file)
+        - convert the given template in HTML Table tag (1 table with nested table concept) - with borders
+    3rd Part (in a separate .html file)
+        - you can use either individual tables or nested concept and convert the given template
+            - without borders, but with background colors
+
+
+NOTES: 10-12-2022
+
+Assignment #1
+    Part 1
+        - Named Anchor (old/traditional way) -> <a name=""></a>
+            - Topic is of your choice
+                eg: Chapter with Content
+                    Bio with Content
+                    Movie with Content
+                    Music with Content
+        
+    Part 2
+        - Named Anchor (new/modern way) -> <a name=""></a> will replace with "id" attribute of the heading of that section
+
+    Part 3
+        - create 2 HTML documents
+            - 1st HTML document (chapter.html)
+                - Chapters/Bio Names/Movie Titles/Music Titles
+                    eg:
+                        <a href="#chapter1">Chapter 1</a>
+                        will be changed to
+                        <a href="content.html#chapter1">Chapter 1</a>
+
+            - 2nd HTML document (content.html)
+                - Have all the content of the Titles
+                    eg:
+                        <h3 id="chapter1">Chapter 1 Content</h3>
+                        ... content will go here...
+                        <a href="chapter.html">Chapter 1</a>
+
+                        <h3 id="chapter2">Chapter 2 Content</h3>
+                        ... content will go here...
+                        <a href="chapter.html">Chapter 1</a>
+
+META TAGS
+    - SEO
+        - MARKETING
+            - SEARCH ENGINES
+                TITLE = 75
+    - Content Writers
+        - true/unique content
+        - keywords
+
+Compatibility vs Responsiveness
+
+
+NOTES: 11-12-2022
+
+2 Methods to send data through the browser
+    - GET (default)
+        HTTP GET
+            - in the URL it will start with ? mark
+                ?txtUsername=dfdsfsdfds
+                    - querystring
+                    - if multiple form controls used
+                        ?elName=elValue&elName1=elValue1&elName2=elValue2
+            - 1024 Characters
+    - POST
+        HTTP POST
+            - use browser temp variable and refreshes/resets when the page is refreshed
+            - when you have sensitive data to transfer, use POST
+            - 2GB of data can be sent
+
+
+Encoding vs Decoding
+    - System Dependendant 
+
+Encryption vs Decryption
+    - Half System + Half Custom (Human)
+
+Forms (Project #2) = Create 85 Forms
+    - How many different kinds/types of forms?
+        - Application
+        - Feedback
+        - Registration
+        - Sign In
+        - Sign Up
+        - Admission
+        - Declaration
+        - Payment
+        - Purchase / Order
+        - Donation / Charity
+        - Reservation Flight / Train / Bus / Cruise / Cabs / Auto / Bike / Hotels / Restaurants
+        - Resolution / Support
+        - Audit
+        - Log/Time Sheet
+        - Contact
+        - Selection
+        - Medical OP / Test / Bill / Claiming
+        - Insurance Registration / Renewal / Claiming / Dispute / Bond / Cancellation / Reinstating
+        - Invoice
+        - Newsletter Subscription
+        - Attendance
+        - Advertisement
+        - Service Car / Bike / Gadgets / Jet
+        - Guidance
+        - Scheduling
+        - Request
+        - Appointment / Resignation
+        - Compensation / Reimbursement
+        - Leave Application
+        - Employee
+        - Investigator / Suspect / Background / Legal
+        - Bank Opening / Deposit / Withdrawal / Surrender / Update / Closure / Fradualent / Loan
+        - Govt License / Passport / Aadhaar / Pan / IT / Voter Id / Ration / Border Pass / Voting / PPF / Retirement / Birth
+            / Death / Marriage / Heir / Adoption / Divorce / Immigrate
+
+        = 85 FORMS
+
+
+NOTES: 17-12-2022
+
+CAPTCHA
+    - BACKEND technology has to be used
+
+        ENTER THE ABOVE CODE
+    
+    - CRAWLING
+
+
+NOTES: 18-12-2022
+
+3 Ways to include CSS/Styles in HTML document
+    - internal
+        - use the <style> tag and it should be placed within the <head> tag
+    - inline
+        - use the style attribute of your html tag
+    - external
+        - use a separate .css file and by using the <link> tag it can be linked with the HTML document and the <link> should be placed within the <head> tag
+
+
+
+NOTES: 24-12-2022
+
+CSS Selectors
+    universal
+    type
+    class
+    id
+    attribute
+        - attribute + value
+        - selector + attribute + value
+
+    type:
+        type
+            div {}
+        type + class
+            div.pink {}
+        type + id
+            div#pink {}
+        type + attribute variant 1
+            input[type] {}
+        type + attribute variant 2
+            input[type="value"]
+
+    class:
+        class
+            .pink {}
+        class + id
+            .pink#bgcolor {}
+        class + attribute
+            .pink[data-custom]
+        class + attribute + value
+            .pink[data-custom="value"]
+
+    id:
+        id
+            #pink {}
+        id + class
+            #pink.bgcolor {}
+        id + attribute
+            #pink[data-custom]
+        id + attribute + value
+            #pink[data-custom="value"]
+
+TASK FOR THIS WEEK:
+    - convert or update existing templates (2 - portfolio + meet-me) with color and background-color from CSS
+    - work on new template (ispace) with TABLE tag, with color and background-color from CSS
+    - work on another new template (kataklimt) with TABLE tag, with color and background-color from CSS
+    - make the templates (all 4) as box or fluid or box inside a fluid container
+
+Tomorrow is OFF
+NEXT WEEK IS ALSO OFF
+WE ARE GOING TO MEET ON NEW YEAR *7th of Jan*
+
+
+NOTES: 14-01-2023
+
+CSS Basics
+    - Measurements
+        px
+        %
+        pt
+        em
+        rem
+
+        mm
+        cm
+        in
+        pc
+
+        vw - viewport width
+        vh - viewport height
+
+    - Inherit, Initial
+
+    - Color (text, background, borders)
+        - basic colors we have ?
+            white & black
+        - others (combination)
+            - Named Colors (16) - browser safe colors
+
+            - RGB (Red + Green + Blue)
+                - % (0 - 100%)
+                    rgb(0%, 0%, 0%)
+                - value (0-255 => 256)
+                    rgb(100, 200, 50)
+
+            - RGBA (Red + Green + Blue + Alpha) -> Alpha aka Opacity aka Transparency
+                - % (0 - 100%)
+                    rgba(0%, 0%, 0%, 0%)
+                - value (0-255 => 256)
+                    rgba(100, 200, 50, 0-1)
+
+            - Hex Codes
+                - 6 digit
+                    0-9, A-F
+                        eg:
+                        #000000 -> black
+                        #ffffff -> white
+                        #123456
+                        #abcdef
+                        #a1b2c3
+                - 3 digit
+                    0-9, A-F
+                        eg:
+                        #000 -> black
+                        #fff -> white
+
+                        #123456 => #135 and not (#246)
+
+            - HSL (Hue, Saturation, Lightness)
+                Hue -> deg (0-359)
+                Saturation -> %
+                Lightness -> %
+
+            - HSLA (Hue, Saturation, Lightness, Alpha)
+                Hue -> deg (0-359)
+                Saturation -> %
+                Lightness -> %
+                Alpha (0-100% or 0-1 as value)
+
+Sharing your assignments or project should only be done through Github:
+    - Share 2 links
+        - output
+        - code
